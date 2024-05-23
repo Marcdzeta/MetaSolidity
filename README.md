@@ -2,7 +2,7 @@
 Solidity is an object-oriented, high-level language for implementing smart contracts. Smart contracts are programs that govern the behavior of accounts within the Ethereum state.
 
 ## Description
-Good day! Im Marc and we are to diccuss the solidity in metacrafters. So, here is the requirments for our assessment in solidity.
+Good day! Im Marc and we are here to diccuss the solidity in metacrafters. So, here is the requirments for our assessment in solidity.
 
 ## Getting Started
 // SPDX-License-Identifier: MIT
